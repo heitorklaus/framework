@@ -1,0 +1,1 @@
+enum InputType { LARGE, REGULAR, SMALL, EXTRA_SMALL }
